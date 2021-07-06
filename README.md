@@ -11,7 +11,7 @@ conda create -n repro_lap_reg python=3.6
 conda activate repro_lap_reg
 
 # download code 
-git clone git clone https://github.com/idc9/repro_lap_reg@v0.0.0
+git clone https://github.com/idc9/repro_lap_reg@v0.0.0
 pip install .
 
 # modify the paths in run_all_simulations.sh
