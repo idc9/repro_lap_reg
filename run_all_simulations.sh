@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-# This script runs all the simulations and data analyses from (Carmichael, 2020). It assumes you first run git clone www.github.com/idc9/repro_lap_reg and cd into the cloned directory.
+# This script runs all the simulations from (Carmichael, 2021). It assumes you first run git clone www.github.com/idc9/repro_lap_reg and cd into the cloned directory.
 
 
 # Change these to match your setup!!
